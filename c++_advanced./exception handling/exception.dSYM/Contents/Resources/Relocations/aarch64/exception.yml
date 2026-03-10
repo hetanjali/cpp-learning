@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hetanjalivaghela/Library/Mobile Documents/com~apple~CloudDocs/python/c++/c++_advanced./exception handling/exception'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: __Z6dividei, symObjAddr: 0x0, symBinAddr: 0x100003EF4, symSize: 0x54 }
+  - { offset: 0x46, size: 0x8, addend: 0x0, symName: __Z6dividei, symObjAddr: 0x0, symBinAddr: 0x100003EF4, symSize: 0x54 }
+  - { offset: 0x6E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x54, symBinAddr: 0x100003F48, symSize: 0x30 }
+...
