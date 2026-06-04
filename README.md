@@ -18,5 +18,3 @@ that I learned while studying the language.
 - g++ compiler
 - macOS
 
-## 👩‍💻 About
-Currently learning C++ and building my programming foundation.
